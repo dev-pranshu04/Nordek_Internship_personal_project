@@ -576,7 +576,7 @@ if page == "My Work at Nordek":
     ))
     fig_candle.update_layout(**plotly_layout("NRK/USD · Jun–Aug 2023", 480))
     fig_candle.update_yaxes(tickprefix="$")
-    fig_candle.update_xaxis(rangeslider_visible=False)
+    fig_candle.update_xaxes(rangeslider_visible=False)
     st.plotly_chart(fig_candle, use_container_width=True)
 
     # Volume bar
