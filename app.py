@@ -475,7 +475,7 @@ with st.sidebar:
         <p style='font-family:IBM Plex Mono,monospace;font-size:10px;color:{SUBTEXT};
                   text-transform:uppercase;letter-spacing:.06em;margin:0 0 6px 0;'>About This Project</p>
         <p style='font-size:12px;color:{TEXT};margin:0;line-height:1.6;'>
-            A machine-learning price analysis built during a Data Science internship at Nordek in Summer 2023.
+            A machine-learning price analysis built during a Applied Machine Learning Internship at Nordek in Summer 2023.
             The dashboard was constructed as a portfolio piece to demonstrate feature engineering,
             model evaluation, and data storytelling skills.
         </p>
